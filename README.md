@@ -2,7 +2,7 @@
 #### "_9th International Congress on Industrial and Applied Mathematics, 2019 Valencia, Spain_"
   
 - Poster session file
-	+ _[Poster for ICIAM2019] A study of spatial dynamics under the prisoner's dilemma and chicken game_Sangman Jung.pdf_
+	+ _[Poster for ICIAM2019] A study of spatial dynamics under the prisoner's dilemma, hawk-dove and snowdrift game_Sangman Jung.pdf_
   
 - Certifications
   + _certificate_of_attendance_sangmanjung_
